@@ -1,0 +1,10 @@
+{
+  "name": "http2",
+  "version": "1.0.0",
+  "main": "index.js",
+  "author": "kevinmeinhardt <kevin.meinhardt@smava.de>",
+  "license": "MIT",
+  "scripts": {
+    "start": "node src/server.js"
+  }
+}
